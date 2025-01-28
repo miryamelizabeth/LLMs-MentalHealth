@@ -1,5 +1,5 @@
 # LLMs-MentalHealth
-This repository contains the materials related to the article "XXX".
+This repository contains the materials related to the article "Detecting people with mental disorders on social media using an explainable method for class imbalance and large language models".
 
 ### Requeriments
 ``requirements.txt`` - required Python packages to run the code.
