@@ -1,5 +1,5 @@
 # LLMs-MentalHealth
-This repository contains the materials related to the article "Detecting people with mental disorders on social media using an explainable method for class imbalance and large language models".
+This repository contains the materials related to the article "Addressing Class Imbalance and Explainability in the Detection of Mental Disorders from Social Media Data".
 
 ### Requeriments
 ``requirements.txt`` - required Python packages to run the code.
